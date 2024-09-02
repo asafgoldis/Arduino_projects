@@ -1,0 +1,28 @@
+http://www.brokking.net/yabr_main.html
+
+hardware:
+To build this robot you need hardware.
+I made the following list for convenience purpose alone.
+You are free to get your own hardware from different sources.
+But this is the hardware that I used/ordered:
+
+ok                                                                     1 x Arduino pro mini clone       הגיע
+ok                       1 x FTDI USB to TTL programmer for the Arduino pro mini       הגיע
+ok                                                                           1 x Arduino Uno clone       יש כבר
+ok                                                   1 x MPU-6050 gyro and accelerometer     
+ ok                                           2 x 2.4G wireless serial transceiver module       הגיע
+ok                                                                       2 x 35mm Stepper motor       הגיע
+ok                                                         2 x Geeetech StepStick DRV8825
+ok                                                     1 x Wired nunchuck controller for Wii        הגיע
+ok                                  1 x Mini DC 7~28V to DC 5V step-down converter        הגיע
+ok                                           1 x 11.1V 2200mAh 30C Li-polymer Battery        הגיע
+ok                                                   1 x B3AC 2S/3S Lipo balance charger       
+If the 35mm stepper motors are out of stock. You could also use these stepper motors. Please note that these are 42mm in stead of 35mm. So you have to modify the frame.
+
+ 2 x 42mm Stepper motor
+Most of the following parts can be found in your local electronics store. But in case you don't have an electronics store nearby I will put links here:
+
+ok                            1 x 1/4W Ceramic metal film resistors set (600 PCS)      יש כבר
+ok                                                          1 x Glass fiber prototyping PCB       הגיע
+ok                                                          1 x 3-Pin toggle switch (5-Pack)
+And finally you need an old inner tube and two sheets of plywood. I used 2.5mm and 12.5mm sheets.
